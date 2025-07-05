@@ -26,11 +26,18 @@ jobs:
       - name: Betiği çalıştır
         run: python vodden.py
 
-      - name: Değişiklikleri GitHub'a geri yükle
+      - name: m3u dosyasını kontrol et
+        run: |
+          ls -lh
+          cat vodturk.m3u || echo "m3u dosyası yok"
+
+      - name: Değişiklikleri GitHub'a geri yükle (force-safe)
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add vod.m3u
-          git diff --cached --quiet || git commit -m "m3u güncellendi [CI]"
-          git pull --rebase
-          git push
+          git add vodturk.m3u
+          git diff --cached --quiet && echo "Değişiklik yok" || (
+            git commit -m "m3u güncellendi [CI]"
+            git pull --rebase || echo "pull hatası oldu ama devam ediyoruz"
+            git push || echo "push başarısız oldu"
+          )
