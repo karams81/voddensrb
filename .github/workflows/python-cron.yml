@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add --force vodturk.m3u
+          git add --force vodden.m3u
           git diff --cached --quiet && echo "Değişiklik yok" || (
             git commit -m "m3u güncellendi [CI]"
             git pull --rebase || echo "pull hatası oldu ama devam ediyoruz"
