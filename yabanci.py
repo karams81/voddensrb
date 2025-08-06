@@ -10,6 +10,7 @@ m3u_urls = [
     "https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Mac2M3uPlaylist_SPORT.m3u",
     "https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Xtreamlist_Sports_All.m3u",
     "https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Sports_Playlist_Optimized.m3u",
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u",
 ]
 
 # Çıktı dosyası adı
