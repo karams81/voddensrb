@@ -4,7 +4,7 @@ import requests
 m3u_urls = [
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/1.m3u",
     "https://raw.githubusercontent.com/koprulu5564/rectv2/refs/heads/main/playlist.m3u",
-    "https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/vodden.m3u"
+    "https://raw.githubusercontent.com/mehmetey03/metvvd/refs/heads/main/vodden.m3u",
 ]
 
 # Çıktı dosyası adı
