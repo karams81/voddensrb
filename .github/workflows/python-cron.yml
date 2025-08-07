@@ -3,7 +3,7 @@ name: Python scripti her 12 saatte bir çalıştır
 on:
   schedule:
     - cron: '0 */12 * * *'  # Her 12 saatte bir
-  workflow_dispatch:         # Elle çalıştırma seçeneği
+  workflow_dispatch:         
 
 jobs:
   run-script:
