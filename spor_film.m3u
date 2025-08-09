@@ -1,72 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/d84d5332502a27e8e3a9bc76fa54b206/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png",15h00 Caboolture FC vs Redlands United FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/622363717eca6ad5c3be571c1b2a50bd/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/926a4e735eec88e50e764ece73fe4116.png",15h00 Beijing(W) vs Yongchuan Chashan Bamboo Sea(W) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/30a616b948e4bbcdffe503788d2662e7/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/4b49d2a284ebe78ab1b7351a8266831d.png",15h00 ACS Dumbravita vs Scolar Resita 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/7199a4811ffb88569102f0ce9df30c62/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/b6728832f1504989e57f8a43479429ec.png",15h00 CD Leganes vs Real Oviedo [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6896fe01827f5_17480/index.m3u8?expire=1755330689&sign=adf7423b7db4c7d114e14902e2179992
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/b6728832f1504989e57f8a43479429ec.png",15h00 CD Leganes vs Real Oviedo [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6896fe01827f5_17480.flv?expire=1755330689&sign=adf7423b7db4c7d114e14902e2179992
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="",15h00 Loser SF1 vs Loser SF2 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/f0001a39fd24e9b4bffcfdb911cdd669/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/199b4119fddf5ca17aede099a8b31eee.png",15h15 Tianjin Shengde (w) vs Qingdao West Coast(w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/8d59b2114cd6cb0a8d389b3602edc5f3/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/c785f9cf1a914ceb12176f2720a3d074.png",15h15 Guangdong Sports Lottery (w) vs Dalian Football School(w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/18b0d32cac6e12f1b8cba53001fbe88c/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/5fb7ac71937040f1fdb0998bb2171c21.png",15h15 Loko Vltavin vs Aritma Praha 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/dccaeb8cc775fb5327ef3b5eed87e4e1/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/e10a8b7e6592c35a6d92c5cf1af44db3.png",15h15 SK Motorlet Praha vs FK Kraluv Dvur 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/06c4cb9d6799f525fbd8ebfca4c4bb14/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/fba3f53fd35b3bb92b274cae2a2b3a5e.png",15h15 FC Pisek vs Taborsko Akademie 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/018b8625eb07d25b10d6e0193961dd6a/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/111897a27bff20465fc39289a7dd1b53.jpg",15h15 Mlada Boleslav B vs Spolana Neratovice 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/79d94872fa2b26b118f0f31397290141/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="",15h15 Slavia Prague C vs Bohemians1905 B 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/1ca06f3b5fba86439b0d709e65f220db/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f5564d465c79e1d82f69a3cd887c50b8.png",15h20 AFC Metalul Buzau vs Sepsi OSK Sfantul Gheorghe 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/6e1d1544e565839640a4b9ef390e0639/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png",15h30 Persib Bandung vs Semen Padang 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/b5c2b4432136d96736ec53487a466b30/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/1141f1e2cbe58df57a60bc83d9445b07.png",15h30 Velke Hamry vs FK Kolin 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/aa8b982bed240d8855d0d236b690c315/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png",16h00 Yokohama FC vs Urawa Red Diamonds 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -119,14 +51,6 @@ https://2893950149.global.cdnfastest.com/live/6897072417f06_28.flv?expire=175533
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/4c7e527e21f7b9d50c8183ddc81edb8e/playlist.m3u8
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b44ef8d86a20a825e2d53fe006e5b2dd.png",16h00 Việt Nam vs Indonesia [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/6897088817f06_29975/index.m3u8?expire=1755333384&sign=52927707725e476e6ccd999def53106e
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/b44ef8d86a20a825e2d53fe006e5b2dd.png",16h00 Việt Nam vs Indonesia [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/6897088817f06_29975.flv?expire=1755333384&sign=52927707725e476e6ccd999def53106e
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/2519e017f6c267cf0fd8208c0d37a2ff.png",16h00 Brisbane Olympic (w) vs Capalaba (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -175,6 +99,70 @@ https://2893950149.global.cdnfastest.com/live/6897088d827f5_1343.flv?expire=1755
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/50afdf20d0576c353f7ad0c692cbed63/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/dc620a971cf9cc6a42546b3f72874cbf.png",17h00 Polissya Zhytomyr U21 vs Kolos Kovalivka U21 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/558441ebeef2b8a7d4f071db53c27678/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/4ec474222e325e2608731032b8386e90.png",17h00 Obolon Kiev U21 vs Oleksandriya U21 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/66a397b0552829d61b66673bcb60e89f/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/937795c0851c1e794e96a5cb660fcd59.png",17h00 Kawasaki Frontale vs Avispa Fukuoka 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/77a4fdc711111d6066020a3232f8d35f/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/68bbaa087749b718f6399542f3f51e6d.png",17h00 Oita Trinita vs Kataller Toyama 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/f00a832246feb09f648097158c9627f2/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png",17h00 RB Omiya Ardija vs JEF United Ichihara Chiba 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/89a08719acc46a66349324cc42373b4a/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/978b618556d660a58857523d14d3f741.png",17h00 Imabari FC vs Roasso Kumamoto 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/540d9dde6c51aaa182e7048beec4860c/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/aa33d6919294509723e6cbdbbffb1ea5.png",17h00 Chungnam Asan vs Gyeongnam FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/e60e69c6ac43664109432b9d9702ee1c/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/70736255e34dd7eb2781203e3f454d52.png",17h00 Busan I Park vs Incheon United Club 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/d6be5a9bab86423c409e2b950d6d65ec/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/b7d71976c00a588ae7b9d077e6f94810.png",17h00 Suwon Samsung Bluewings vs Ansan Greeners FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c7d2f81350de83d6d85713b7eaf470f9/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/54b9138d9e67eccab4d88846c5f5def1.png",17h00 Baerum SK vs Alta B 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/4db4b5ef25906cb7ebe242fcf3cddb87/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/4fd5cd8244f3b8e464fa4fa1c6ac7a20.png",17h00 Kryvbas vs Metalist 1925 Kharkiv 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/60824814d97c10aacf43b4081648b6c0/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/970fbbd9b930f098f0d0285124954ff0.png",17h00 Pacos de Ferreira vs Vizela 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/978ccc699743f49d4ac0aee5a8f31655/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/fe07fb888ebcb282192332cb8aed21b1.png",17h30 Ulsan HD FC vs Jeju SK FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/6e2acd85f25b579cffe30094128064db/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/fe07fb888ebcb282192332cb8aed21b1.png",17h30 Ulsan HD FC vs Jeju SK FC [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68971ae817f06_4439/index.m3u8?expire=1755338088&sign=b5d5ed5222db67b60dae6a82fd71f1ae
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/fe07fb888ebcb282192332cb8aed21b1.png",17h30 Ulsan HD FC vs Jeju SK FC [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68971ae817f06_4439.flv?expire=1755338088&sign=b5d5ed5222db67b60dae6a82fd71f1ae
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",17h30 Gangwon Football Club vs Gimcheon Sangmu Football Club 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/f4cfbafcff82ca4a502d38d8f849c77f/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",17h30 Gangwon Football Club vs Gimcheon Sangmu Football Club [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -183,82 +171,50 @@ https://2893254555.global.cdnfastest.com/live/6897171717f06_5153/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6897171717f06_5153.flv?expire=1755337111&sign=75253052880439d4bc66aac73ecbc40e
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/c71f1b5e71c63b84bf7bad3e8c519198.png",14h45 Monaro Panthers vs OConnor Knights (CH) Nhà đài
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png",15h00 Caboolture FC vs Redlands United FC (CH) Nhà đài
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/e0b5f909365880e6c88d3f39fd3d0ef7/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CH) SD 1
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68971b1317f06_4579/index.m3u8?expire=1755338131&sign=626aef0b98a94efd984160d1c3738cdf
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/bipsd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CH) HD 1
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68971b1317f06_4579.flv?expire=1755338131&sign=626aef0b98a94efd984160d1c3738cdf
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/5bc0ed8b6640a862b6c29d173abe6a17.png",17h30 Hutnik Krakow vs Resovia Rzeszow 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/biphd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CH) SD 2
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/edb3003b57b8c98260cc02e3f5f1a7e6/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/e4f191ddee95b37b08ab1fe9ac086ab3.png",17h30 Darwin Hearts vs Hellenic AC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CH) HD 2
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/ad91ea82764389cdd9cf4ba0a8419847/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/0a38b45c20a019398526a4944553f8e6.png",18h00 Eintracht Braunschweig vs SpVgg Greuther Fürth [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/biphd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/689723f2827f5_97/index.m3u8?expire=1755340402&sign=0f1d823da4c3a220ca7b9ff99e23aa46
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/0a38b45c20a019398526a4944553f8e6.png",18h00 Eintracht Braunschweig vs SpVgg Greuther Fürth [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/bipsd1.flv
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/689723f2827f5_97.flv?expire=1755340402&sign=0f1d823da4c3a220ca7b9ff99e23aa46
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f6eea313baf599c1f4fabdd6afe31dfc.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/biphd1.flv
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/1965f2a571c94bcfadfa5b07672c9ecc.png",15h00 Beijing Beikong (w) vs Yongchuan Chashan Bamboo Sea (w) (CH) Nhà đài
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/6897220f827f5_4908/index.m3u8?expire=1755339919&sign=ff3173d17df8dddc289bc4cdc4ca48cc
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f6eea313baf599c1f4fabdd6afe31dfc.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m104nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/f5564d465c79e1d82f69a3cd887c50b8.png",15h00 AFC Metalul Buzau vs Sepsi OSK Sfantul Gheorghe (CH) Nhà đài
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/6897220f827f5_4908.flv?expire=1755339919&sign=ff3173d17df8dddc289bc4cdc4ca48cc
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f6eea313baf599c1f4fabdd6afe31dfc.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/62ee76fc01732a90a87f98940d031d6e.png",15h15 Brisbane Wolves vs Moreton Bay United (CH) Nhà đài
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/689722ca17f06_4915/index.m3u8?expire=1755340106&sign=b2aff3c9db8362a068626ea2ad021562
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f6eea313baf599c1f4fabdd6afe31dfc.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/199b4119fddf5ca17aede099a8b31eee.png",15h15 Tianjin Shengde (w) vs Qingdao West Coast(w) (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m303nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/b6728832f1504989e57f8a43479429ec.png",15h00 Leganes vs Real Oviedo (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m105nd/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/lansd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/lanhd2/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lansd1.flv
-#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/lanhd1.flv
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/689722ca17f06_4915.flv?expire=1755340106&sign=b2aff3c9db8362a068626ea2ad021562
 #EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8db7260a18b1be68e8710cfdbf6be3df.png",16h00 Racing Santander vs Cagliari (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -431,62 +387,290 @@ https://chcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/cohd1.flv
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/c71f1b5e71c63b84bf7bad3e8c519198.png",14h45 Monaro Panthers vs OConnor Knights (CKhia) Nhà đài
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/e4f191ddee95b37b08ab1fe9ac086ab3.png",17h30 Darwin Hearts vs Hellenic AC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png",15h00 Caboolture FC vs Redlands United FC (CKhia) Nhà đài
+https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) SD 1
+https://179245845.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) Rakhoi TV
+https://179245845.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoi8.link
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) HD 1
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/biphd2/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) SD 2
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) HD 2
+https://chcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/bipsd1.flv
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/biphd1.flv
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/1965f2a571c94bcfadfa5b07672c9ecc.png",15h00 Beijing Beikong (w) vs Yongchuan Chashan Bamboo Sea (w) (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m104nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/f5564d465c79e1d82f69a3cd887c50b8.png",15h00 AFC Metalul Buzau vs Sepsi OSK Sfantul Gheorghe (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/62ee76fc01732a90a87f98940d031d6e.png",15h15 Brisbane Wolves vs Moreton Bay United (CKhia) Nhà đài
+https://chcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8e7b44dbb29bd144d9b098b6c4e50844.png",17h30 Gangwon FC vs Gimcheon Sangmu FC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/199b4119fddf5ca17aede099a8b31eee.png",15h15 Tianjin Shengde (w) vs Qingdao West Coast(w) (CKhia) Nhà đài
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/tichsd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/tichhd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buisd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buihd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/buisd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/buihd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/biphd2/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h00 Shandong Taishan FC vs Changchun Yatai FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m305nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/5b8a3bb282d72348c18e6338dd8d284c.png",18h00 Dynamo Dresden vs 1. FC Magdeburg (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/f18777d99ff4bb84e077d3030e26cfcc.png",18h00 Dalian K'un City vs Yanbian Hailanjiang (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/2c821a2c4ccdf633fc75d547061cde90.png",18h00 ABFF(U19) vs Dinamo-2 Minsk (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/3a9ff05dff35a1b8a9145ded6ed272d6.png",18h00 Life FC vs Boeung Ket Angkor (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 Tiffy Army FC vs Visakha FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/452e38576a757b341b8a3d3dc4f1c9a6.png",18h00 Seongnam FC vs Gimpo FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/8cb22bdd0b7ba1ab13d742e22eed8da2.jpg",18h00 GIF Sundsvall vs Sandvikens IF (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m303nd/playlist.m3u8
-#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/b6728832f1504989e57f8a43479429ec.png",15h00 Leganes vs Real Oviedo (CKhia) Nhà đài
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png",16h00 Yokohama FC vs Urawa Red Diamonds (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m105nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1754751307&sign=8dae5401c5159f8158f1dd8035878eb9
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png",16h00 Yokohama FC vs Urawa Red Diamonds (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/nrVn3kMti-DoCVWIdQpVOA/886780a1aa7b0f9bb93a424ecdb45bb8/1754751307/live/_definst_/stream_1_1bda7@nenHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png",16h00 Yokohama FC vs Urawa Red Diamonds (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/X73G6Uz2BwcsvOTFOsf0Tg/Fv2lucGIbhPi2caWYvF5Lg/1754751307224/live/nenSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png",16h00 Yokohama FC vs Urawa Red Diamonds (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Px4fNwIZeHqMWQ37644k8g/2754eb814558eb7917263671678490d6/1754751307/live/_definst_/stream_1_1bda7@nenFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png",16h00 Yokohama FC vs Urawa Red Diamonds (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ejLkfxdcpV0i_f1hyOKa6Q/Fv2lucGIbhPi2caWYvF5Lg/1754751307224/live/sd-6MtMPH5pXyFXr7xdmm/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",16h00 Vietnam vs Indonesia (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1754751607&sign=25354600d7bf58d261a6a8a32a8b6427
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",16h00 Vietnam vs Indonesia (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Rxfs2z5sTEuE5eJI1_1uhg/288c67df8717458036080b04ef9d22a4/1754751607/live/_definst_/stream_1_1bda7@kienHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",16h00 Vietnam vs Indonesia (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/yj1Qd8Yj4oR4vgWNTpW2hA/Fv2lucGIbhPi2caWYvF5Lg/1754751607848/live/kienSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",16h00 Vietnam vs Indonesia (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/aNyZCpb5VWLinvCw3cqX3w/787f8737b622a0a6c3d26b0705ecc12a/1754751607/live/_definst_/stream_1_1bda7@kienFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Cambodia.png",16h30 Cambodia (w) vs Thailand (w) (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/ncMMmNmMKVBdxZL6iw1Ulg/1dae3400e4a56a95aa98d9615588b5c1/1754755209/live/_definst_/stream_1_1bda7@dungHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Cambodia.png",16h30 Cambodia (w) vs Thailand (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/nPIsaMxBdAXdYkLkpbMC9w/Fv2lucGIbhPi2caWYvF5Lg/1754755209389/live/sd-6MuQ8woMPYcc74FRoZ/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/2a8adb34e764602183a7bee8f51726e4.png",16h00 Tokyo Verdy VS Yokohama F. Marinos (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/cUUVGaiw8v9D4Kt_79Ofrw/Fv2lucGIbhPi2caWYvF5Lg/1754752507795/live/sd-6MtMPH5oNUiimfbTb1/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/82dc76b53d9e2f36b66119275391b2f2.png",16h00 V-Varen Nagasaki VS Hokkaido Consadole Sapporo (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/RVWJi1mVKpmCkyNixTOmyA/Fv2lucGIbhPi2caWYvF5Lg/1754751905206/live/sd-6MtMPH81zfbTnQFE1y/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/7800ea1ee29937dbf7866cb6a275ef64.png",16h00 Blaublitz Akita VS Fujieda MYFC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/6Sp5fXiS357rZJeuJUfPUg/Fv2lucGIbhPi2caWYvF5Lg/1754752508446/live/sd-6MtMPH81q3KQiYQT4F/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/3f0f36bc1b00ed0bddf18d43f029d06b.jfif",16h00 Imigresen FC VS Kuala Lumpur City FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/yT_09H5327QA7DMhsGh2_A/Fv2lucGIbhPi2caWYvF5Lg/1754752508773/live/sd-6MuTMhEK2t2VhYqXKH/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png",16h30 Werder Bremen VS Udinese (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/9D5MVRWAfq1_Cxh2EvPokA/Fv2lucGIbhPi2caWYvF5Lg/1754755212071/live/sd-6MuPtZdwwPiwMdyqA3/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/2519e017f6c267cf0fd8208c0d37a2ff.png",16h00 Brisbane Olympic (w) VS Capalaba (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/MKsoIqCWJsSYKHUgxIpqxA/Fv2lucGIbhPi2caWYvF5Lg/1754752509081/live/sd-6MuPtuATwwraPh4FDd/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/4fdd983fc166e48243c7eecfdeb57f25.png",16h15 North Star VS Robina City Blue (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Ps09MSbAPeIkl9yLLWA8Lg/Fv2lucGIbhPi2caWYvF5Lg/1754752803577/live/sd-6MtMsmC6J7iapLfyYf/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/8c1caa5d0427d9f2305b2aa9f84116b3.png",16h15 Taringa Rovers VS Maroochydore (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Xv9E7wlRFwSXkMBgXqwi9Q/Fv2lucGIbhPi2caWYvF5Lg/1754753111599/live/sd-6MtMsmC6Hjjn7YQp1h/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/0358c38eb4fe92007c919d84587370b5.png",16h15 North Lakes United VS Pine Hills (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/6c2KEbUI_YSJdgqgBx-i0g/Fv2lucGIbhPi2caWYvF5Lg/1754753405975/live/sd-6MtMsmC68LecGZXXyM/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/07dfeb96334bb5e8b6af2ae22f35e5cd.png",16h15 Broadmeadow Magic Reserves VS Cooks Hill United Reserves (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/vX-n6X_4BHuGVwmt-TN_Gw/Fv2lucGIbhPi2caWYvF5Lg/1754752807558/live/sd-6MvXbt2hVcj6Nf5fMD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/8b7f392b782c000c2f8ded9239012e60.png",16h15 Samford Ranges VS Brisbane Knights (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/uirZtc1znHMttI5OQVmg5w/Fv2lucGIbhPi2caWYvF5Lg/1754752807909/live/sd-6MtMsmC6JC7YZJKorT/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/253c59c17ed3035c377d07a78c6bb680.png",16h15 Moreton Bay United Reserves VS Souths United (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/R5-0qkI-qfzN61_NriLKdQ/Fv2lucGIbhPi2caWYvF5Lg/1754752808246/live/sd-6MtMsmC68R3a1XBNH9/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/a026a7d347c6229f28b72552d12f8265.png",16h15 Grange Thistle SC VS Mitchelton FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/qmptV-HBX1UQ21wzt9oyEg/Fv2lucGIbhPi2caWYvF5Lg/1754752808570/live/sd-6MtMsmC6JGWWJFyeAF/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/71ff7ef0ad9a020d73ac9ef1a5cd6233.png",16h30 Gold Coast Knights (w) VS Sunshine Coast Wanderers (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/1phwOSjeMavXNSjNX1xVkg/Fv2lucGIbhPi2caWYvF5Lg/1754755217866/live/sd-6MuPtZdymswD1mT2BM/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/937795c0851c1e794e96a5cb660fcd59.png",17h00 Kawasaki Frontale vs Avispa Fukuoka (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/l2xUJIS4fX9RmX1aBah1yQ/Fv2lucGIbhPi2caWYvF5Lg/1754757007202/live/sd-6MtMPH5pi8JK6hNEt3/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/c48b54e1213384e00b610b69fc58e184.png",17h00 Omiya Ardija VS JEF United Ichihara Chiba (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/vWcb_jllIlpZH_KQNJt_5g/Fv2lucGIbhPi2caWYvF5Lg/1754757007560/live/sd-6MtMPDkPsvzrb5TvxK/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/978b618556d660a58857523d14d3f741.png",17h00 Imabari FC VS Roasso Kumamoto (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/g6Ta6R-eV9UIOFD4lYsYgQ/Fv2lucGIbhPi2caWYvF5Lg/1754757007883/live/sd-6MtMPDkPiGXKejoEqh/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/68bbaa087749b718f6399542f3f51e6d.png",17h00 Oita Trinita VS Kataller Toyama (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/sF2GyT2I9GjYi-LX-yikyA/Fv2lucGIbhPi2caWYvF5Lg/1754757008251/live/sd-6MtMPDkPNsBJ36p2Jf/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/b7d71976c00a588ae7b9d077e6f94810.png",17h00 Suwon Samsung Bluewings VS Ansan Greeners FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/KxXB-rxPPCMoelNzTgnq4Q/Fv2lucGIbhPi2caWYvF5Lg/1754757009029/live/sd-6MtMssePgm1et5ABYP/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/aa33d6919294509723e6cbdbbffb1ea5.png",17h00 Chungnam Asan VS Gyeongnam FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/z66cHAN1w7hSyCVhESQ3OA/Fv2lucGIbhPi2caWYvF5Lg/1754757009383/live/sd-6MtMssePhBBwTMFGEF/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/70736255e34dd7eb2781203e3f454d52.png",17h00 Busan I Park VS Incheon United Club (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2AYheUwClHlU2Nqg_ahFjg/Fv2lucGIbhPi2caWYvF5Lg/1754757009733/live/sd-6MtMssePhHnP4nj1gw/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/54b9138d9e67eccab4d88846c5f5def1.png",17h00 Baerum SK VS Alta B (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Kd18qlXnhlo3m_NJ9H-Clw/Fv2lucGIbhPi2caWYvF5Lg/1754757010061/live/sd-6MtMssgaK4axPhTUuh/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/4fd5cd8244f3b8e464fa4fa1c6ac7a20.png",17h00 Kryvbas VS Metalist 1925 Kharkiv (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ie1VRv1AHavZ0DXJk1VnGw/Fv2lucGIbhPi2caWYvF5Lg/1754757010405/live/sd-6MuTc8ZZ1KM6arQ1tw/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/dc620a971cf9cc6a42546b3f72874cbf.png",17h00 Polissya Zhytomyr U21 VS Kolos Kovalivka U21 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/KQTpPtRPOcBx-L1QzR0syw/Fv2lucGIbhPi2caWYvF5Lg/1754757011180/live/sd-6MuQ8ihhUQo78x2QW7/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/4ec474222e325e2608731032b8386e90.png",17h00 Obolon Kiev U21 VS PFC OleksandriaU21 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Qt8Urg9F0b5XUfTkKBrQZw/Fv2lucGIbhPi2caWYvF5Lg/1754757011494/live/sd-6MuQ9LXBCztJTes76s/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/970fbbd9b930f098f0d0285124954ff0.png",17h00 Pacos de Ferreira VS Vizela (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/deRpwTS3UgcEGNvGQ5To4A/Fv2lucGIbhPi2caWYvF5Lg/1754757011808/live/sd-6MuTcJQxUzC1GstPrb/playlist.m3u8
 #EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -703,54 +887,130 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9950/1grzww51z62n.png?win007=sell",15h15 Wynnum Wolves vs Moreton Bay United (LS) BLV CÔNG TÔN THẮNG m3u
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONTHANG/index.m3u8?expire=1873178820&sign=a9dad0b342ee9e5777f0157a66f6dec3
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9950/1grzww51z62n.png?win007=sell",15h15 Wynnum Wolves vs Moreton Bay United (LS) BLV CÔNG TÔN THẮNG flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TONTHANG.flv?expire=1873178820&sign=a9dad0b342ee9e5777f0157a66f6dec3
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9950/1grzww51z62n.png?win007=sell",15h15 Wynnum Wolves vs Moreton Bay United (LS) BLV SÁCH SIÊU m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/SACHSIEU1/index.m3u8?expire=1892979900&sign=3f13b9d141ad4fb3786da91f9ab09590
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9950/1grzww51z62n.png?win007=sell",15h15 Wynnum Wolves vs Moreton Bay United (LS) BLV SÁCH SIÊU flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/SACHSIEU1.flv?expire=1892979900&sign=3f13b9d141ad4fb3786da91f9ab09590
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9950/1grzww51z62n.png?win007=sell",15h15 Wynnum Wolves vs Moreton Bay United (LS) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9950/1grzww51z62n.png?win007=sell",15h15 Wynnum Wolves vs Moreton Bay United (LS) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (CKhia) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/TONGGIANG/index.m3u8?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/8e7b44dbb29bd144d9b098b6c4e50844.png",17h30 Gangwon FC vs Gimcheon Sangmu FC (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/TONGGIANG.flv?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV HẠNG VŨ m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/HANGVU1/index.m3u8?expire=1890804960&sign=9ead10f20981ec0927284380f496dc60
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV HẠNG VŨ flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/HANGVU1.flv?expire=1890804960&sign=9ead10f20981ec0927284380f496dc60
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/LYUNG1/index.m3u8?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/LYUNG1.flv?expire=1892637000&sign=9e3eb83ad3d4934128de4e70bd09eff2
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV THẠCH TÚ m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/THACHTU/index.m3u8?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) BLV THẠCH TÚ flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/THACHTU.flv?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) TRỢ LÝ ĐIÊU THUYỀN m3u
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (CKhia) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/DIEUTHUYEN/index.m3u8?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
-#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/16494102541.png?win007=sell",15h30 Persib Bandung vs Semen Padang (LS) TRỢ LÝ ĐIÊU THUYỀN flv
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/e4f191ddee95b37b08ab1fe9ac086ab3.png",17h30 Darwin Hearts vs Hellenic AC (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/DIEUTHUYEN.flv?expire=1873178820&sign=057f90ecaee247a5c161320fa70f9bd5
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) SD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) RaKhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) SD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buisd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buihd1/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buisd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (CKhia) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buihd1.flv
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/8cb22bdd0b7ba1ab13d742e22eed8da2.jpg",18h00 GIF Sundsvall vs Sandvikens IF (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m303nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/452e38576a757b341b8a3d3dc4f1c9a6.png",18h00 Seongnam FC vs Gimpo FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h00 Shandong Taishan FC vs Changchun Yatai FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m305nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/f18777d99ff4bb84e077d3030e26cfcc.png",18h00 Dalian K'un City vs Yanbian Hailanjiang (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/2c821a2c4ccdf633fc75d547061cde90.png",18h00 ABFF(U19) vs Dinamo-2 Minsk (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/5b8a3bb282d72348c18e6338dd8d284c.png",18h00 Dynamo Dresden vs 1. FC Magdeburg (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/3a9ff05dff35a1b8a9145ded6ed272d6.png",18h00 Life FC vs Boeung Ket Angkor (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+#EXTINF:0 group-title="[CÀ KHỊA]" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 Tiffy Army FC vs Visakha FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/200/1h53w5e0f9p.png?win007=sell",16h00 Tokyo Verdy vs Yokohama Marinos (LS) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/YENTHANH1/index.m3u8?expire=1891497900&sign=4eb9aaf9f16d4b8e405d882e915d42d1
@@ -823,82 +1083,72 @@ https://hls.cdnokvip.com/live/TAYMONKHANH/index.m3u8?expire=1891496100&sign=335e
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1h3x7jkpqrx.png?win007=sell",16h30 Cambodia (W) vs Thailand (W) (LS) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/TAYMONKHANH.flv?expire=1891496100&sign=335ec58722d0a669036b38a1e945fa9b
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/c71f1b5e71c63b84bf7bad3e8c519198.png",14h45 Monaro Panthers vs OConnor Knights (RK) Nhà đài
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1989/1gtzcts26x2r.png?win007=sell",17h00 Kawasaki Frontale vs Avispa Fukuoka (LS) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/335dad7f811f451658b42b2688eef5a9.png",15h00 Caboolture FC vs Redlands United FC (RK) Nhà đài
+https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1989/1gtzcts26x2r.png?win007=sell",17h00 Kawasaki Frontale vs Avispa Fukuoka (LS) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (RK) SD 1
+https://flv.cdnokvip.com/live/KHONGMINH.flv?expire=1844950380&sign=e8528dbbb8b06fd3cbee4d39493d123a
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1989/1gtzcts26x2r.png?win007=sell",17h00 Kawasaki Frontale vs Avispa Fukuoka (LS) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (RK) HD 1
+https://hls.cdnokvip.com/live/MASIEU/index.m3u8?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1989/1gtzcts26x2r.png?win007=sell",17h00 Kawasaki Frontale vs Avispa Fukuoka (LS) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/biphd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (RK) SD 2
+https://flv.cdnokvip.com/live/MASIEU.flv?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1989/1gtzcts26x2r.png?win007=sell",17h00 Kawasaki Frontale vs Avispa Fukuoka (LS) BLV LƯ TUẤN NGHĨA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (RK) HD 2
+https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8?expire=1891840680&sign=01523056b17c783c758a799abdb1ed7b
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/1989/1gtzcts26x2r.png?win007=sell",17h00 Kawasaki Frontale vs Avispa Fukuoka (LS) BLV LƯ TUẤN NGHĨA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (RK) SD 3 (Nhanh)
+https://flv.cdnokvip.com/live/LUTUANNGHIA1.flv?expire=1891840680&sign=01523056b17c783c758a799abdb1ed7b
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV CHU ĐỒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/bipsd1.flv
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/0bf352fc15ad143607d05a4dd0b3319b.png",15h00 Ipswich City vs Magic United TFA (RK) HD 3 (Nhanh)
+https://hls.cdnokvip.com/live/CHUDONG/index.m3u8?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV CHU ĐỒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/biphd1.flv
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/1965f2a571c94bcfadfa5b07672c9ecc.png",15h00 Beijing Beikong (w) vs Yongchuan Chashan Bamboo Sea (w) (RK) Nhà đài
+https://flv.cdnokvip.com/live/CHUDONG.flv?expire=1877328540&sign=d23dd3c15a3caf3c3899b3194cd885f1
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/480/1grjaafc8j0.png?win007=sell",17h30 Ulsan HD FC vs Jeju SK FC (LS) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m104nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/f5564d465c79e1d82f69a3cd887c50b8.png",15h00 AFC Metalul Buzau vs Sepsi OSK Sfantul Gheorghe (RK) Nhà đài
+https://hls.cdnokvip.com/live/TANCA/index.m3u8?expire=1891230240&sign=a7d6fbe261e2edad612261d2747ceef9
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/480/1grjaafc8j0.png?win007=sell",17h30 Ulsan HD FC vs Jeju SK FC (LS) BLV TẦN CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/62ee76fc01732a90a87f98940d031d6e.png",15h15 Brisbane Wolves vs Moreton Bay United (RK) Nhà đài
+ https://flv.cdnokvip.com/live/TANCA.flv?expire=1891230240&sign=a7d6fbe261e2edad612261d2747ceef9
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/480/1grjaafc8j0.png?win007=sell",17h30 Ulsan HD FC vs Jeju SK FC (LS) BLV TIÊU PHONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/199b4119fddf5ca17aede099a8b31eee.png",15h15 Tianjin Shengde (w) vs Qingdao West Coast(w) (RK) Nhà đài
+https://hls.cdnokvip.com/live/TIEUPHONG/index.m3u8?expire=1873178820&sign=6e1740b8bce1c32c24959d4eb43ec3ad
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/480/1grjaafc8j0.png?win007=sell",17h30 Ulsan HD FC vs Jeju SK FC (LS) BLV TIÊU PHONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m303nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/b6728832f1504989e57f8a43479429ec.png",15h00 Leganes vs Real Oviedo (RK) Nhà đài
+https://flv.cdnokvip.com/live/TIEUPHONG.flv?expire=1873178820&sign=6e1740b8bce1c32c24959d4eb43ec3ad
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",17h30 Krylya Sovetov vs Baltika Kaliningrad (LS) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m105nd/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (RK) SD 1
+https://hls.cdnokvip.com/live/QUANVU/index.m3u8?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",17h30 Krylya Sovetov vs Baltika Kaliningrad (LS) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (RK) HD 1
+ https://flv.cdnokvip.com/live/QUANVU.flv?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",17h30 Krylya Sovetov vs Baltika Kaliningrad (LS) BLV PHONG VÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (RK) SD 2
+https://hls.cdnokvip.com/live/PHONGVAN/index.m3u8?expire=1861716660&sign=0ce887abc0189ffdc7842fb929b2aeae
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165095551520.png?win007=sell",17h30 Krylya Sovetov vs Baltika Kaliningrad (LS) BLV PHONG VÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (RK) HD 2
+https://flv.cdnokvip.com/live/PHONGVAN.flv?expire=1861716660&sign=0ce887abc0189ffdc7842fb929b2aeae
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV QUAN THẮNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (RK) SD 3 (Nhanh)
+https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV QUAN THẮNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1.flv
-#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e885efa9074bfc9147e849e126c70e1.png",15h30 Persib Bandung vs Semen Padang (RK) HD 3 (Nhanh)
+https://flv.cdnokvip.com/live/QUANTHANG.flv?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV SONG NHI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1.flv
+https://hls.cdnokvip.com/live/SONGNHI1/index.m3u8?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV SONG NHI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/SONGNHI1.flv?expire=1893134940&sign=68e47bf8b701d38b162a1ff591bf58a2
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV CAO CẦU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/9945/1gxsf6qkdd19.png?win007=sell",17h30 Gangwon FC vs Gimcheon Sangmu FC (LS) BLV CAO CẦU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8db7260a18b1be68e8710cfdbf6be3df.png",16h00 Racing Santander vs Cagliari (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1075,6 +1325,142 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/e4f191ddee95b37b08ab1fe9ac086ab3.png",17h30 Darwin Hearts vs Hellenic AC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/197fe7600c10cdd1f22e2ab0194b6739.png",17h30 Ulsan Hyundai FC vs Jeju United (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8e7b44dbb29bd144d9b098b6c4e50844.png",17h30 Gangwon FC vs Gimcheon Sangmu FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m301nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichsd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/9b43a690d5a09f1e319f036821e8e1d3.png",17h30 Brighton Hove Albion vs VfL Wolfsburg (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/tichhd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buisd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buihd1/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buisd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/35446f422b10fb247bc1ce34045aa670.png",17h30 Krylya Sovetov vs Baltika Kaliningrad (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/buihd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (RK) Páo SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (RK) Páo HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3073500c390e431e7954fdc09c077b72.png",18h00 Nam Dinh FC vs Cong An Ha Noi FC (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1.flv
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h00 Shandong Taishan FC vs Changchun Yatai FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m305nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/5b8a3bb282d72348c18e6338dd8d284c.png",18h00 Dynamo Dresden vs 1. FC Magdeburg (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/f18777d99ff4bb84e077d3030e26cfcc.png",18h00 Dalian K'un City vs Yanbian Hailanjiang (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/2c821a2c4ccdf633fc75d547061cde90.png",18h00 ABFF(U19) vs Dinamo-2 Minsk (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/3a9ff05dff35a1b8a9145ded6ed272d6.png",18h00 Life FC vs Boeung Ket Angkor (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/7c014b1fbcaf11e815e2e072ad7d2dc7.png",18h00 Tiffy Army FC vs Visakha FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/452e38576a757b341b8a3d3dc4f1c9a6.png",18h00 Seongnam FC vs Gimpo FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m304nd/playlist.m3u8
+#EXTINF:0 group-title="[RA KHƠI]" tvg-logo="https://img.thesports.com/football/team/8cb22bdd0b7ba1ab13d742e22eed8da2.jpg",18h00 GIF Sundsvall vs Sandvikens IF (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m303nd/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/news/da197.jpg",[0] Highlights Reading vs Tottenham | BLV Người Đá | 19.7.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
